@@ -1,10 +1,5 @@
 <?php
 
-/**
- * PHP Rest CURL
- * https://github.com/jmoraleda/php-rest-curl
- * (c) 2014 Jordi Moraleda
- */
 
 Class RestCurl {
   public static function exec($method, $url, $obj = array()) {
